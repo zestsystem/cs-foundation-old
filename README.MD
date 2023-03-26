@@ -1,3 +1,3 @@
 ## CS Foundation
 
-I plan on training my foundation here.
+I train and learn my foundation here.
