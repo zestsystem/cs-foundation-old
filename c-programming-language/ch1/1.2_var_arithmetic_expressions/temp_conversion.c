@@ -27,7 +27,7 @@ main() {
 #define UPPER 300 /* upper limit of table */
 #define STEP 20   /* step size */
 
-main() {
+int main() {
   int fahr;
 
   for (fahr = UPPER; fahr >= LOWER; fahr = fahr - STEP) {
