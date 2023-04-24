@@ -13,7 +13,7 @@ main() {
 */
 
 /* count characters in input; 2nd version */
-main() {
+int main() {
   double nc;
 
   for (nc = 0; getchar() != EOF; ++nc)

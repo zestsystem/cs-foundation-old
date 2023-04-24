@@ -14,7 +14,7 @@ main() {
 */
 
 /* copy input to output; 2nd version */
-main() {
+int main() {
   int c;
 
   printf("EOF: %d", EOF);

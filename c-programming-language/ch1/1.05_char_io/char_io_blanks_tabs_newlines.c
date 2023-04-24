@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main() {
+int main() {
 
   int blanks_nr = 0;
   int tabs_nr = 0;
