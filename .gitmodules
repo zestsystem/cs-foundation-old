@@ -1,0 +1,3 @@
+[submodule "fp-made-easier"]
+	path = fp-made-easier
+	url = https://github.com/zestsystem/fp-made-easier
